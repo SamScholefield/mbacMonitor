@@ -1,5 +1,5 @@
 # mbacMonitor
-Export more extensive manageBac information for users, groups and classes to Google sheets.
+Export more extensive manageBac information for users and classes to Google sheets.
 
 To enable easier monitoring and synchronisation between Student Management Information Systems and ManageBac.
 
